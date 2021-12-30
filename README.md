@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ImMappy
 - 👀 I’m interested in Web Development !
-- 🌱 I’m currently learning HTML/CSS, Javascript, Vue.js, PHP and MySQL
+- 🌱 I’m currently learning HTML/CSS, Javascript, Vue.js,React, Angular, PHP and MySQL
