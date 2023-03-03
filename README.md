@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Luis-Maria Montero and I'm 25 years old ! ;)
-- 🌱 I’m currently learning HTML/CSS, Javascript, Vue.js,React, Node.js,Java, JavaEE, PHP and MySQL
-- 👽️ I want to discover the more I can about Web Development and its secrets 
+- 🌱 I’m currently learning HTML/CSS, Javascript, Vue.js, React, Node.js, Java, JavaEE, PHP and MySQL
+- 👽️ I want to discover as much as I can about Web Development and its secrets 
 - 🧑‍💻 Open to discussion and international opportunities 🚀
